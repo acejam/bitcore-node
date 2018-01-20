@@ -27,8 +27,7 @@
     }
   ],
   "bin": {
-    "bitcore-node": "./bin/bitcore-node",
-    "bitcoind": "./bin/bitcoind"
+    "bitcore-node": "./bin/bitcore-node"
   },
   "scripts": {
     "verify": "./scripts/download --skip-bitcoin-download --verify-bitcoin-download",
